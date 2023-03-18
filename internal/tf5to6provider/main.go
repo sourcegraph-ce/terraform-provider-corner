@@ -1,7 +1,7 @@
 package tf5to6provider
 
 import (
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 
 	"github.com/hashicorp/terraform-plugin-go/tfprotov6/tf6server"
 )
